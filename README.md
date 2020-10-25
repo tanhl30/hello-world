@@ -1,2 +1,3 @@
 # hello-world
-My first repository !
+My first repository ! I am new to this world and hope to learn with different people!
+
